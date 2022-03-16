@@ -56,7 +56,9 @@ aclean(arr1);
 ---
 
 ### Experience
-a
+
+I studied on Pre RSS courses
+
 ---
 
 ### Education
